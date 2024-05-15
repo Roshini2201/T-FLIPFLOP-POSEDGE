@@ -1,3 +1,6 @@
+## EX.NO:9
+## DATE:
+
 # T-FLIPFLOP-POSEDGE
 
 **AIM:**
@@ -43,11 +46,9 @@ From the above characteristic table, we can directly write the next state equati
 7.Check for Race Conditions: Ensure that there are no race conditions or undefined states in the design by analyzing the timing and sequence of input changes.
 
 **PROGRAM**
-
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.  
-Developed by: ROSHINI S  
-RegisterNumber: 212223240142
-*/
+  
+### Developed by: ROSHINI S  
+### RegisterNumber: 212223240142
 
 ![328818747-3c324cbf-93fa-4882-a700-89b4a7c38f40](https://github.com/Roshini2201/T-FLIPFLOP-POSEDGE/assets/154105318/712ec338-4de5-4827-bb29-a78fbb1d272d)
 
